@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 3af7f6f30af465e4a95eec5fd6a659b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5357036028551765442
+    second: ReloadCrouch_0
+  - first:
+      213: 6352506003732281926
+    second: ReloadCrouch_1
+  - first:
+      213: -2839681711889539425
+    second: ReloadCrouch_2
+  - first:
+      213: -190188021224082981
+    second: ReloadCrouch_3
+  - first:
+      213: -2517170601389462874
+    second: ReloadCrouch_4
+  - first:
+      213: -1129006751508731084
+    second: ReloadCrouch_5
+  - first:
+      213: 4435536694280871742
+    second: ReloadCrouch_6
+  - first:
+      213: -5346695830334515774
+    second: ReloadCrouch_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReloadCrouch_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1.5, y: 6.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 5.5, y: 3.5}
+        - {x: 7.5, y: 5.5}
+        - {x: 13.5, y: 5.5}
+        - {x: 13.5, y: 1.5}
+        - {x: 8.5, y: 1.5}
+        - {x: 8.5, y: -2.5}
+        - {x: 7.5, y: -3.5}
+        - {x: 6.5, y: -3.5}
+        - {x: 5.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: -13.5}
+        - {x: -8.5, y: -13.5}
+        - {x: -8.5, y: -1.5}
+        - {x: -6.5, y: 4.5}
+        - {x: -6.5, y: 10.5}
+        - {x: -3.5, y: 13.5}
+        - {x: 3.5, y: 13.5}
+        - {x: 3.5, y: 8.5}
+      - - {x: 13.5, y: 2.5}
+        - {x: 13.5, y: 4.5}
+        - {x: 14.5, y: 4.5}
+        - {x: 14.5, y: 2.5}
+      - - {x: -14.5, y: -13.5}
+        - {x: -14.5, y: -12.5}
+        - {x: -8.5, y: -6.5}
+        - {x: -8.5, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1cca92e3085a40800000000000000
+      internalID: 5357036028551765442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadCrouch_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11.5, y: -14}
+        - {x: -11.5, y: -13}
+        - {x: -7.5, y: -8}
+        - {x: -7.5, y: -6}
+        - {x: -9.5, y: -4}
+        - {x: -9.5, y: -1}
+        - {x: -6.5, y: 2}
+        - {x: -6.5, y: 10.118523}
+        - {x: -2.5, y: 14}
+        - {x: 3.5, y: 14}
+        - {x: 3.5, y: 9}
+        - {x: 1.5, y: 7}
+        - {x: 1.5, y: -2}
+        - {x: 3.5, y: -2}
+        - {x: 4.5, y: -3}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64abff9ad82a82850800000000000000
+      internalID: 6352506003732281926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadCrouch_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 16
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: -13}
+        - {x: -5, y: -9}
+        - {x: -5, y: -8}
+        - {x: -8, y: -4}
+        - {x: -9, y: -2}
+        - {x: -9, y: 2}
+        - {x: -12, y: 5}
+        - {x: -12, y: 11}
+        - {x: -11, y: 12}
+        - {x: -9, y: 12}
+        - {x: -8, y: 11}
+        - {x: -6, y: 5}
+        - {x: -6, y: 1}
+        - {x: -4, y: 1}
+        - {x: -4, y: 10}
+        - {x: -1, y: 13}
+        - {x: 2, y: 14}
+        - {x: 5, y: 14}
+        - {x: 6, y: 13}
+        - {x: 6, y: 9}
+        - {x: 4, y: 7}
+        - {x: 4, y: 4}
+        - {x: 5, y: 2}
+        - {x: 6, y: -5}
+        - {x: 7, y: -8}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e96af378c6798d0800000000000000
+      internalID: -2839681711889539425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadCrouch_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: -14}
+        - {x: -9.5, y: -13}
+        - {x: -8.5, y: -12}
+        - {x: -4.5, y: -9}
+        - {x: -4.5, y: -8}
+        - {x: -4.5, y: -7}
+        - {x: -7.5, y: -4}
+        - {x: -8.5, y: -2}
+        - {x: -8.5, y: 2}
+        - {x: -11.5, y: 5}
+        - {x: -11.5, y: 11}
+        - {x: -10.5, y: 12}
+        - {x: -8.5, y: 12}
+        - {x: -7.5, y: 11}
+        - {x: -5.5, y: 5}
+        - {x: -5.5, y: 1}
+        - {x: -3.5, y: 1}
+        - {x: -3.5, y: 10}
+        - {x: -0.5, y: 13}
+        - {x: 2.5, y: 14}
+        - {x: 5.5, y: 14}
+        - {x: 6.5, y: 13}
+        - {x: 6.5, y: 9}
+        - {x: 4.5, y: 7}
+        - {x: 4.5, y: 3}
+        - {x: 5.5, y: 2}
+        - {x: 5.5, y: -3}
+        - {x: 5.5, y: -5}
+        - {x: 6.5, y: -6}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1776a90015c5df0800000000000000
+      internalID: -190188021224082981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadCrouch_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 16
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: -14}
+        - {x: -9.5, y: -13}
+        - {x: -7.5, y: -11}
+        - {x: -3.5, y: -8}
+        - {x: -3.5, y: -6}
+        - {x: -5.5, y: -4}
+        - {x: -6.5, y: -2}
+        - {x: -6.5, y: 2}
+        - {x: -9.5, y: 5}
+        - {x: -9.5, y: 11}
+        - {x: -8.5, y: 12}
+        - {x: -6.5, y: 12}
+        - {x: -5.5, y: 11}
+        - {x: -5.5, y: 7}
+        - {x: -3.5, y: 5}
+        - {x: -1.5, y: 4}
+        - {x: -1.5, y: 10}
+        - {x: 1.5, y: 13}
+        - {x: 4.5, y: 14}
+        - {x: 7.5, y: 14}
+        - {x: 8.5, y: 13}
+        - {x: 8.5, y: 9}
+        - {x: 6.5, y: 7}
+        - {x: 6.5, y: 3}
+        - {x: 7.5, y: 2}
+        - {x: 7.5, y: -5}
+        - {x: 8.5, y: -6}
+        - {x: 9.5, y: -8}
+        - {x: 9.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaef11bca6311dd0800000000000000
+      internalID: -2517170601389462874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadCrouch_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.77, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.5, y: -14}
+        - {x: -8.5, y: -13}
+        - {x: -6.5, y: -11}
+        - {x: -4.5, y: -10}
+        - {x: -2.5, y: -10}
+        - {x: -2.5, y: -7}
+        - {x: -5.5, y: -4}
+        - {x: -6.5, y: -2}
+        - {x: -6.5, y: 2}
+        - {x: -9.5, y: 5}
+        - {x: -9.5, y: 11}
+        - {x: -8.5, y: 12}
+        - {x: -6.5, y: 12}
+        - {x: -4.5, y: 10}
+        - {x: -4.5, y: 8}
+        - {x: -1.5, y: 8}
+        - {x: -1.5, y: 10}
+        - {x: 1.5, y: 13}
+        - {x: 4.630554, y: 14}
+        - {x: 7.5, y: 14}
+        - {x: 8.5, y: 13}
+        - {x: 8.5, y: 9}
+        - {x: 6.5, y: 7.191269}
+        - {x: 6.5, y: 3}
+        - {x: 7.5, y: 2}
+        - {x: 7.5, y: -4}
+        - {x: 9.5, y: -8}
+        - {x: 9.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bed4b5756f450f0800000000000000
+      internalID: -1129006751508731084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadCrouch_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.78, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -14}
+        - {x: -8, y: -13}
+        - {x: -7, y: -12}
+        - {x: -3, y: -10}
+        - {x: -3, y: -6}
+        - {x: -7, y: -2}
+        - {x: -7, y: 2}
+        - {x: -10, y: 5}
+        - {x: -10, y: 11}
+        - {x: -9, y: 12}
+        - {x: -7, y: 12}
+        - {x: -6, y: 11}
+        - {x: -6, y: 6}
+        - {x: -4, y: 6}
+        - {x: -1, y: 4}
+        - {x: -1, y: 10}
+        - {x: 2, y: 13}
+        - {x: 5, y: 14}
+        - {x: 8, y: 14}
+        - {x: 9, y: 13}
+        - {x: 9, y: 9}
+        - {x: 7, y: 7}
+        - {x: 7, y: 4}
+        - {x: 8, y: 3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -5}
+        - {x: 9, y: -6}
+        - {x: 10, y: -8}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f52da7f113e8d30800000000000000
+      internalID: 4435536694280871742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReloadCrouch_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 16
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: -14}
+        - {x: -7.5, y: -13}
+        - {x: -6.5, y: -12}
+        - {x: -2.5, y: -10}
+        - {x: -2.5, y: -6.40625}
+        - {x: -6.5, y: -2}
+        - {x: -6.5, y: 2}
+        - {x: -9.5, y: 5}
+        - {x: -9.5, y: 11}
+        - {x: -8.5, y: 12}
+        - {x: -6.5, y: 12}
+        - {x: -5.5, y: 11}
+        - {x: -5.5, y: 6}
+        - {x: -3.5, y: 6}
+        - {x: -0.5, y: 4}
+        - {x: -0.5, y: 10}
+        - {x: 2.5, y: 13}
+        - {x: 5.5, y: 14}
+        - {x: 8.5, y: 14}
+        - {x: 9.5, y: 13}
+        - {x: 9.5, y: 9}
+        - {x: 7.5, y: 7}
+        - {x: 7.5, y: 4}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: -3}
+        - {x: 8.5, y: -5}
+        - {x: 9.5, y: -6}
+        - {x: 10.5, y: -8}
+        - {x: 10.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c559d66878bcc5b0800000000000000
+      internalID: -5346695830334515774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
